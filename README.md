@@ -196,7 +196,7 @@ The script performs several validation checks before listing AWS resources:
 >
 > ![Argument Validation Output](images/Argument-Validation-Output.png)
 > ![AWS CLI Not Installed Output](images/AWS-CLI-Not-Configured-Output.png)
-> ![AWS CLI Not Configured Output](imagesAWS-CLI-Not-Installed-Output.png)
+> ![AWS CLI Not Configured Output](images/AWS-CLI-Not-Installed-Output.png)
 > ![Invalid Region Output](images/validation-region.png)
 > ![Invalid Service Output](images/validation-service.png)
 
