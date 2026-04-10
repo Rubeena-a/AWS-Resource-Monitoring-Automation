@@ -1,0 +1,36 @@
+====================================
+Listing S3 Buckets
+====================================
+Print list of S3 buckets:
+====================================
+Listing S3 Buckets
+====================================
+Print list of S3 buckets:
+====================================
+Listing EC2 Instances
+====================================
+Print list of EC2 instances:
+====================================
+Listing S3 Buckets
+====================================
+Print list of S3 buckets:
+====================================
+Listing EC2 Instances
+====================================
+Print list of EC2 instances:
+====================================
+Listing S3 Buckets
+====================================
+Print list of S3 buckets:
+====================================
+Listing EC2 Instances
+====================================
+Print list of EC2 instances:
+====================================
+Listing S3 Buckets
+====================================
+Print list of S3 buckets:
+====================================
+Listing EC2 Instances
+====================================
+Print list of EC2 instances:
